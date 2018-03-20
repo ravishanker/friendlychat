@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "852691017208",
+    "firebase_url": "https://my-firebase-flutter-app-3b668.firebaseio.com",
+    "project_id": "my-firebase-flutter-app-3b668",
+    "storage_bucket": "my-firebase-flutter-app-3b668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852691017208:android:c180b1c1854f65cd",
+        "android_client_info": {
+          "package_name": "com.mobileguru.myfriendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852691017208-eviuf2arq5mg040l49osjkfhf88430u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileguru.myfriendlychat",
+            "certificate_hash": "6b591745398bc8ddf633364a774884c9803a3561"
+          }
+        },
+        {
+          "client_id": "852691017208-tr0secnhs85j6eii21tphb61qcrd4f2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1A8x2vbuZyI9faTZ2Jv3qLLnlvz0YxK0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852691017208-9v3oo0vek0dk64vnl5esp0r9uosthf33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobileguru.myFriendlychat"
+              }
+            },
+            {
+              "client_id": "852691017208-tr0secnhs85j6eii21tphb61qcrd4f2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
